@@ -32,8 +32,9 @@ git clone https://github.com/PM-ADD/offensive-cybersecurity.git
 cd offensive-cybersecurity
 cd inlighnTech
 cd 'pdf cracker tool'
-'''
-'''
+```
+
+```bash
 python pdf_cracker.py <pdf_file> [OPTIONS]
 ```
 
