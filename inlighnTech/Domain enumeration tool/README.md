@@ -32,7 +32,7 @@ pip install requests
 git clone https://github.com/PM-ADD/offensive-cybersecurity.git
 cd offensive-cybersecurity
 cd inlighnTech
-cd Domain_enumeration_tool
+cd 'Domain enumeration tool'
 python3 subdomain_enum.py
 ```
 
