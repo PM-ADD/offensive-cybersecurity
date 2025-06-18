@@ -18,7 +18,7 @@ A multithreaded Python hash cracking tool that supports both **wordlist attacks*
 
 ### 1. 📥 Clone or Download
 ```bash
-git clone [https://github.com/PM-ADD/offensive-cybersecurity.git](https://github.com/PM-ADD/offensive-cybersecurity.git)
+git clone https://github.com/PM-ADD/offensive-cybersecurity.git
 cd offensive-cybersecurity
 cd inlighnTech
 cd hash_cracker
