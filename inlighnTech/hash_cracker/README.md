@@ -18,7 +18,9 @@ A multithreaded Python hash cracking tool that supports both **wordlist attacks*
 
 ### 1. 📥 Clone or Download
 ```bash
-git clone https://github.com/yourusername/hash_cracker.git
+git clone [https://github.com/PM-ADD/offensive-cybersecurity.git](https://github.com/PM-ADD/offensive-cybersecurity.git)
+cd offensive-cybersecurity
+cd inlighnTech
 cd hash_cracker
 ```
 
@@ -36,7 +38,7 @@ python3 hash_cracker.py <hash> -w <wordlist_path> --hash_type md5
 
 **Example:**
 ```bash
-python3 hash_cracker.py d8578edf8458ce06fbc5bb76a58c5ca4 -w wordlists/rockyou.txt --hash_type md5
+python3 hash_cracker.py d8578edf8458ce06fbc5bb76a58c5ca4 -w wordlist.txt --hash_type md5
 ```
 
 #### 💥 Brute-force Mode
