@@ -1,1 +1,6 @@
-http://www.vulnweb.com
+www
+testphp
+admin
+blog
+ftp
+dev
