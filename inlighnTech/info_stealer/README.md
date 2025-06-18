@@ -36,6 +36,9 @@ pip install requests
 ## 🚀 Usage
 
 ```bash
+git clone https://github.com/PM-ADD/offensive-cybersecurity.git
+cd offensive-cybersecurity
+cd inlighnTech
 python info_stealer.py
 ```
 
