@@ -62,7 +62,7 @@ python pdf_cracker.py <pdf_file> [OPTIONS]
 ### Example 1: Using a Wordlist
 
 ```bash
-python pdf_cracker.py secret.pdf --wordlist rockyou.txt
+python pdf_cracker.py secret.pdf --wordlist wordlist.txt
 ```
 
 ### Example 2: Generating Passwords (length 1 to 3)
