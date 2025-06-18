@@ -23,7 +23,13 @@ pip install PyPDF2
 ## 📄 Usage
 
 ```bash
-python3 script.py <input_pdf> <output_pdf> <password>
+git clone https://github.com/PM-ADD/offensive-cybersecurity.git
+cd offensive-cybersecurity
+cd inlighnTech
+cd 'pdf protection'
+```
+```bash
+python3 pdf_protection.py <input_pdf> <output_pdf> <password>
 ```
 
 ### 📌 Arguments
@@ -39,7 +45,7 @@ python3 script.py <input_pdf> <output_pdf> <password>
 ## 💡 Example
 
 ```bash
-python3 script.py document.pdf protected_document.pdf secret123
+python3 pdf_protection.py document.pdf protected_document.pdf secret123
 ```
 
 If successful, you’ll see:
