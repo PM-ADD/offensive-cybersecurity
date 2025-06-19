@@ -53,10 +53,19 @@ n_threads = 30             # Number of concurrent threads
 3. **Run the script:**
 
    ```bash
-   python3 ftp_bruteforce.py
+  git clone https://github.com/PM-ADD/offensive-cybersecurity.git
+  cd offensive-cybersecurity
+  cd inlighnTech
+  cd ftp_brute
+  cd basic_ftp_brute
    ```
 
-4. **Sample Output:**
+
+   ```bash
+   python3 ftp_brute.py
+   ```
+
+5. **Sample Output:**
 
    ```
    [+] Passwords to try: 500
