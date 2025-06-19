@@ -53,11 +53,11 @@ n_threads = 30             # Number of concurrent threads
 3. **Run the script:**
 
    ```bash
-  git clone https://github.com/PM-ADD/offensive-cybersecurity.git
-  cd offensive-cybersecurity
-  cd inlighnTech
-  cd ftp_brute
-  cd basic_ftp_brute
+   git clone https://github.com/PM-ADD/offensive-cybersecurity.git
+   cd offensive-cybersecurity
+   cd inlighnTech
+   cd ftp_brute
+   cd basic_ftp_brute
    ```
 
 
