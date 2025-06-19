@@ -38,7 +38,11 @@ pip install colorama pexpect scapy
 ## ▶️ Usage
 
 ```bash
-python3 botnet_controller.py
+git clone https://github.com/PM-ADD/offensive-cybersecurity.git
+cd offensive-cybersecurity
+cd inlighnTech
+cd ssh_botnet
+python3 ssh_botnet.py
 ```
 
 ### 🟢 Menu Options
