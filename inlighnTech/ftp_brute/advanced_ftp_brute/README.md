@@ -34,28 +34,36 @@ Designed for **authorized penetration testing**, CTFs, and ethical hacking resea
 
 ## 🛠️ Usage
 
+```bash
+git clone https://github.com/PM-ADD/offensive-cybersecurity.git
+cd offensive-cybersecurity
+cd inlighnTech
+cd ftp_brute
+cd advanced_ftp_brute
+```
+
 ### Static Username and Wordlist
 
 ```bash
-python3 ftp_bruteforce.py --host 192.168.1.195 -u admin -w passwords.txt
+python3 advanced_ftp_brute.py --host 192.168.1.195 -u admin -w passwords.txt
 ```
 
 ### Using Username List
 
 ```bash
-python3 ftp_bruteforce.py --host 192.168.1.195 -U usernames.txt -w passwords.txt
+python3 advanced_ftp_brute.py --host 192.168.1.195 -U usernames.txt -w passwords.txt
 ```
 
 ### Generating Passwords On-the-Fly
 
 ```bash
-python3 ftp_bruteforce.py --host 192.168.1.195 -u admin -g --min_length 1 --max_length 3 -c abc123
+python3 advanced_ftp_brute.py --host 192.168.1.195 -u admin -g --min_length 1 --max_length 3 -c abc123
 ```
 
 ### Custom Thread Count
 
 ```bash
-python3 ftp_bruteforce.py --host 192.168.1.195 -u admin -w passwords.txt -t 50
+python3 advanced_ftp_brute.py --host 192.168.1.195 -u admin -w passwords.txt -t 50
 ```
 
 ## ⚙️ Command Line Options
